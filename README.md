@@ -1,1 +1,1 @@
-Testing Talks Hub React App
+Playwright Cucumber automation framework
